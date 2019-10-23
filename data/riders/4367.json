@@ -1,0 +1,528 @@
+{
+  "id": "4367",
+  "name": "Chris Mather",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17234",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Derwentside CC",
+        "position": "19",
+        "time": "0:02:18.5",
+        "speed": "0.00 Mph",
+        "bar": 105,
+        "barPosition": 16,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17234S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Derwentside CC",
+        "position": "26",
+        "time": "0:08:36.3",
+        "speed": "0.00 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17233",
+        "raceCategory": "short",
+        "name": "GS Metro",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 9,
+        "date": "16 September 2018",
+        "club": "Derwentside CC",
+        "position": "31",
+        "time": "0:05:41.8",
+        "speed": "0.00 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 99.33333333333333,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 99.33333333333333,
+    "remainingShortPoints": 542,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 542,
+    "predictedFinalPoints": 298,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 298,
+      "medium": 0,
+      "long": 0,
+      "grand": 298
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "17234",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Derwentside CC",
+        "position": "19",
+        "time": "0:02:18.5",
+        "speed": "0.00 Mph",
+        "bar": 105,
+        "barPosition": 16,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17233",
+        "raceCategory": "short",
+        "name": "GS Metro",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 9,
+        "date": "16 September 2018",
+        "club": "Derwentside CC",
+        "position": "31",
+        "time": "0:05:41.8",
+        "speed": "0.00 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17234S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Derwentside CC",
+        "position": "26",
+        "time": "0:08:36.3",
+        "speed": "0.00 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 114.66666666666667,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 114.66666666666667,
+    "remainingShortPoints": 496,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 496,
+    "predictedFinalPoints": 802.6666666666667,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 344,
+      "medium": 0,
+      "long": 0,
+      "grand": 344
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17233",
+      "raceCategory": "short",
+      "name": "GS Metro",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 9,
+      "date": "16 September 2018",
+      "club": "Derwentside CC",
+      "position": "31",
+      "time": "0:05:41.8",
+      "speed": "0.00 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 114,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17234",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "07 October 2018",
+      "club": "Derwentside CC",
+      "position": "19",
+      "time": "0:02:18.5",
+      "speed": "0.00 Mph",
+      "bar": 105,
+      "barPosition": 16,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17234S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "07 October 2018",
+      "club": "Derwentside CC",
+      "position": "26",
+      "time": "0:08:36.3",
+      "speed": "0.00 Mph",
+      "bar": 100,
+      "barPosition": 21,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 47,
+  "barHistory": [
+    {
+      "eventId": "17233",
+      "date": "16 September 2018",
+      "name": "MH11",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 41
+    },
+    {
+      "eventId": "17231",
+      "date": "23 September 2018",
+      "name": "MH16",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 54
+    },
+    {
+      "eventId": "17231S2",
+      "date": "23 September 2018",
+      "name": "MH15",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 63
+    },
+    {
+      "eventId": "17238",
+      "date": "29 September 2018",
+      "name": "MH2",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 69
+    },
+    {
+      "eventId": "17232",
+      "date": "30 September 2018",
+      "name": "MH4",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 73
+    },
+    {
+      "eventId": "17232S2",
+      "date": "30 September 2018",
+      "name": "MH20",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 73
+    },
+    {
+      "eventId": "17234",
+      "date": "07 October 2018",
+      "name": "MH18",
+      "points": {
+        "short": 198,
+        "medium": 0,
+        "long": 0,
+        "grand": 198
+      },
+      "position": 54
+    },
+    {
+      "eventId": "17234S2",
+      "date": "07 October 2018",
+      "name": "MH19",
+      "points": {
+        "short": 298,
+        "medium": 0,
+        "long": 0,
+        "grand": 298
+      },
+      "position": 44
+    },
+    {
+      "eventId": "17235",
+      "date": "14 October 2018",
+      "name": "MH10",
+      "points": {
+        "short": 298,
+        "medium": 0,
+        "long": 0,
+        "grand": 298
+      },
+      "position": 45
+    },
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 298,
+        "medium": 0,
+        "long": 0,
+        "grand": 298
+      },
+      "position": 47
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 44,
+      "id": "554",
+      "pointsDirection": 3,
+      "name": "Andrew Hall",
+      "club": "GS Metro",
+      "averagePointsPerRace": 105,
+      "predictedFinalPoints": 315,
+      "grandTotal": 315,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 45,
+      "id": "5313",
+      "pointsDirection": 3,
+      "name": "Simon Emsley",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 104.33333333333333,
+      "predictedFinalPoints": 313,
+      "grandTotal": 313,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 46,
+      "id": "18015",
+      "pointsDirection": 2,
+      "name": "David Nearney",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 303,
+      "grandTotal": 303,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 47,
+      "id": "4367",
+      "pointsDirection": 2,
+      "name": "Chris Mather",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 99.33333333333333,
+      "predictedFinalPoints": 298,
+      "grandTotal": 298,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 48,
+      "id": "13",
+      "pointsDirection": 2,
+      "name": "Paul Wright",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 297,
+      "grandTotal": 297,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 49,
+      "id": "20448",
+      "pointsDirection": 2,
+      "name": "Neil Scott",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 96.33333333333333,
+      "predictedFinalPoints": 289,
+      "grandTotal": 289,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 50,
+      "id": "13844",
+      "pointsDirection": -9,
+      "name": "Philip Parsley",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 93.33333333333333,
+      "predictedFinalPoints": 280,
+      "grandTotal": 280,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

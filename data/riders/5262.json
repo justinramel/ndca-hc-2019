@@ -1,0 +1,312 @@
+{
+  "id": "5262",
+  "name": "Derek Billham",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17226",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 9,
+        "date": "21 October 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "69",
+        "time": "0:05:20",
+        "speed": "0.00 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 105,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 76,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 76,
+    "remainingShortPoints": 764,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 764,
+    "predictedFinalPoints": 76,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 76,
+      "medium": 0,
+      "long": 0,
+      "grand": 76
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "17226",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 9,
+        "date": "21 October 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "69",
+        "time": "0:05:20",
+        "speed": "0.00 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 105,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 105,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 105,
+    "remainingShortPoints": 735,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 735,
+    "predictedFinalPoints": 735,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 105,
+      "medium": 0,
+      "long": 0,
+      "grand": 105
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17226",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 9,
+      "date": "21 October 2018",
+      "club": "North Tyneside Riders CC",
+      "position": "69",
+      "time": "0:05:20",
+      "speed": "0.00 Mph",
+      "bar": 76,
+      "barPosition": 45,
+      "vbar": 105,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 103,
+  "barHistory": [
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 103
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 100,
+      "id": "9684",
+      "pointsDirection": 0,
+      "name": "Darren Williamson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 79,
+      "predictedFinalPoints": 79,
+      "grandTotal": 79,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 101,
+      "id": "21585",
+      "pointsDirection": 0,
+      "name": "Paul Wass",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 77,
+      "predictedFinalPoints": 77,
+      "grandTotal": 77,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 102,
+      "id": "6215",
+      "pointsDirection": 0,
+      "name": "Dean Madden",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 76,
+      "grandTotal": 76,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 103,
+      "id": "5262",
+      "pointsDirection": 0,
+      "name": "Derek Billham",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 76,
+      "grandTotal": 76,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 104,
+      "id": "21008",
+      "pointsDirection": 0,
+      "name": "Michael Noble",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 105,
+      "id": "3407",
+      "pointsDirection": 0,
+      "name": "Michael Johnston",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 69,
+      "predictedFinalPoints": 69,
+      "grandTotal": 69,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 106,
+      "id": "4354",
+      "pointsDirection": 0,
+      "name": "Tim Wilcock",
+      "club": "GS Metro",
+      "averagePointsPerRace": 67,
+      "predictedFinalPoints": 67,
+      "grandTotal": 67,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

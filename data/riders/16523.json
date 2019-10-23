@@ -1,0 +1,483 @@
+{
+  "id": "16523",
+  "name": "Marcus Cram",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18267",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "08 September 2019",
+        "club": "Blaydon CC",
+        "position": "1",
+        "time": "0:06:55.1",
+        "speed": "0.00 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Blaydon CC",
+        "position": "1",
+        "time": "0:17:02.6",
+        "speed": "0.00 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 240,
+    "pointsDirection": 4,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 240,
+      "medium": 0,
+      "long": 0,
+      "grand": 240
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18267",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "08 September 2019",
+      "club": "Blaydon CC",
+      "position": "1",
+      "time": "0:06:55.1",
+      "speed": "0.00 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "Blaydon CC",
+      "position": "1",
+      "time": "0:17:02.6",
+      "speed": "0.00 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18270",
+      "raceCategory": "short",
+      "name": "Cestria CC (Peth Bank)",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 11,
+      "date": "28 September 2019",
+      "club": "Blaydon CC",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18271",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "29 September 2019",
+      "club": "Blaydon CC",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18272",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Whittonstall 2 Stage)",
+      "course": "MH18+MH19",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 October 2019",
+      "club": "Blaydon CC",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 25,
+  "barHistory": [
+    {
+      "eventId": "18267",
+      "date": "08 September 2019",
+      "name": "MH9",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 0,
+        "grand": 120
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 0,
+        "grand": 120
+      },
+      "position": 13
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 240,
+        "medium": 0,
+        "long": 0,
+        "grand": 240
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 240,
+        "medium": 0,
+        "long": 0,
+        "grand": 240
+      },
+      "position": 12
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 240,
+        "medium": 0,
+        "long": 0,
+        "grand": 240
+      },
+      "position": 17
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 240,
+        "medium": 0,
+        "long": 0,
+        "grand": 240
+      },
+      "position": 19
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 240,
+        "medium": 0,
+        "long": 0,
+        "grand": 240
+      },
+      "position": 21
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 240,
+        "medium": 0,
+        "long": 0,
+        "grand": 240
+      },
+      "position": 25
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x 1st"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 10"
+    },
+    {
+      "cssclass": "tag is-dark",
+      "text": "3 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 22,
+      "id": "5313",
+      "pointsDirection": -6,
+      "name": "Simon Emsley",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 318,
+      "grandTotal": 318,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 23,
+      "id": "9124",
+      "pointsDirection": -7,
+      "name": "Samuel Gray",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 291,
+      "grandTotal": 291,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 24,
+      "id": "31557",
+      "pointsDirection": -7,
+      "name": "Michael Trow",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 92.66666666666667,
+      "predictedFinalPoints": 278,
+      "grandTotal": 278,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 25,
+      "id": "16523",
+      "pointsDirection": 4,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 240,
+      "grandTotal": 240,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 26,
+      "id": "24395",
+      "pointsDirection": -9,
+      "name": "Andy Richardson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 118,
+      "predictedFinalPoints": 236,
+      "grandTotal": 236,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 27,
+      "id": "4590",
+      "pointsDirection": 5,
+      "name": "Lee Ager",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 234,
+      "grandTotal": 234,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 28,
+      "id": "9755",
+      "pointsDirection": -6,
+      "name": "Dave Diston",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 234,
+      "grandTotal": 234,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

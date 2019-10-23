@@ -1,0 +1,412 @@
+{
+  "id": "20333",
+  "name": "Tony Dougan",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18267",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "08 September 2019",
+        "club": "Muckle Cycle Club",
+        "position": "18",
+        "time": "0:08:44.6",
+        "speed": "0.00 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18268",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "15 September 2019",
+        "club": "Muckle Cycle Club",
+        "position": "25",
+        "time": "0:05:45.4",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 108,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108,
+    "remainingShortPoints": 384,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 384,
+    "predictedFinalPoints": 216,
+    "pointsDirection": 5,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 216,
+      "medium": 0,
+      "long": 0,
+      "grand": 216
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18267",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "08 September 2019",
+      "club": "Muckle Cycle Club",
+      "position": "18",
+      "time": "0:08:44.6",
+      "speed": "0.00 Mph",
+      "bar": 109,
+      "barPosition": 12,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18268",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "15 September 2019",
+      "club": "Muckle Cycle Club",
+      "position": "25",
+      "time": "0:05:45.4",
+      "speed": "0.00 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 34,
+  "barHistory": [
+    {
+      "eventId": "18267",
+      "date": "08 September 2019",
+      "name": "MH9",
+      "points": {
+        "short": 109,
+        "medium": 0,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 12
+    },
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 14
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 25
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 28
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 29
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 34
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 31,
+      "id": "1347",
+      "pointsDirection": 5,
+      "name": "Lee Ridden",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 32,
+      "id": "5305",
+      "pointsDirection": 5,
+      "name": "Ian Gallon",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 33,
+      "id": "20383",
+      "pointsDirection": -3,
+      "name": "Ben Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 34,
+      "id": "20333",
+      "pointsDirection": 5,
+      "name": "Tony Dougan",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 35,
+      "id": "32156",
+      "pointsDirection": 3,
+      "name": "Sam Atkinson",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 204,
+      "grandTotal": 204,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 36,
+      "id": "708",
+      "pointsDirection": -19,
+      "name": "Christopher Beaty",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 90.5,
+      "predictedFinalPoints": 181,
+      "grandTotal": 181,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 37,
+      "id": "3383",
+      "pointsDirection": -15,
+      "name": "Mark Riley",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 83.5,
+      "predictedFinalPoints": 167,
+      "grandTotal": 167,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

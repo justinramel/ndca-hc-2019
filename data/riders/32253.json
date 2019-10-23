@@ -1,0 +1,352 @@
+{
+  "id": "32253",
+  "name": "Robin Karleskind",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Allen Valley Velo",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Allen Valley Velo",
+        "position": "33",
+        "time": "0:22:51.0",
+        "speed": "0.00 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 95,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 95,
+    "remainingShortPoints": 505,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 505,
+    "predictedFinalPoints": 95,
+    "pointsDirection": 11,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 95,
+      "medium": 0,
+      "long": 0,
+      "grand": 95
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "Allen Valley Velo",
+      "position": "33",
+      "time": "0:22:51.0",
+      "speed": "0.00 Mph",
+      "bar": 95,
+      "barPosition": 26,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 69,
+  "barHistory": [
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 45
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 54
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 57
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 58
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 58
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 69
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 66,
+      "id": "32159",
+      "pointsDirection": 9,
+      "name": "George Parker-fuller",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 97,
+      "grandTotal": 97,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 67,
+      "id": "80",
+      "pointsDirection": 0,
+      "name": "Greg Charlton",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 97,
+      "grandTotal": 97,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 68,
+      "id": "28506",
+      "pointsDirection": 0,
+      "name": "Grace Inglis",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 69,
+      "id": "32253",
+      "pointsDirection": 11,
+      "name": "Robin Karleskind",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 70,
+      "id": "14110",
+      "pointsDirection": 0,
+      "name": "Shaun Brannan",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 71,
+      "id": "27001",
+      "pointsDirection": 12,
+      "name": "Tim Burdon",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 72,
+      "id": "21565",
+      "pointsDirection": 0,
+      "name": "Simon Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

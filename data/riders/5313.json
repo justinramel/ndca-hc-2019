@@ -1,0 +1,485 @@
+{
+  "id": "5313",
+  "name": "Simon Emsley",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18272",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Whittonstall 2 Stage)",
+        "course": "MH18+MH19",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 October 2019",
+        "club": "Derwentside CC",
+        "position": "14",
+        "time": "0:02:30.5",
+        "speed": "0.00 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Derwentside CC",
+        "position": "20",
+        "time": "0:21:03.8",
+        "speed": "0.00 Mph",
+        "bar": 106,
+        "barPosition": 15,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "Derwentside CC",
+        "position": "32",
+        "time": "0:04:56.2",
+        "speed": "0.00 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 106,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 106,
+    "remainingShortPoints": 282,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 282,
+    "predictedFinalPoints": 318,
+    "pointsDirection": -6,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 318,
+      "medium": 0,
+      "long": 0,
+      "grand": 318
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18272",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Whittonstall 2 Stage)",
+        "course": "MH18+MH19",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 October 2019",
+        "club": "Derwentside CC",
+        "position": "14",
+        "time": "0:02:30.5",
+        "speed": "0.00 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Derwentside CC",
+        "position": "20",
+        "time": "0:21:03.8",
+        "speed": "0.00 Mph",
+        "bar": 106,
+        "barPosition": 15,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "Derwentside CC",
+        "position": "32",
+        "time": "0:04:56.2",
+        "speed": "0.00 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 77,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 77,
+    "remainingShortPoints": 369,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 369,
+    "predictedFinalPoints": 385,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 231,
+      "medium": 0,
+      "long": 0,
+      "grand": 231
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "Derwentside CC",
+      "position": "20",
+      "time": "0:21:03.8",
+      "speed": "0.00 Mph",
+      "bar": 106,
+      "barPosition": 15,
+      "vbar": 114,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18272",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Whittonstall 2 Stage)",
+      "course": "MH18+MH19",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 October 2019",
+      "club": "Derwentside CC",
+      "position": "14",
+      "time": "0:02:30.5",
+      "speed": "0.00 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "Derwentside CC",
+      "position": "32",
+      "time": "0:04:56.2",
+      "speed": "0.00 Mph",
+      "bar": 100,
+      "barPosition": 21,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 22,
+  "barHistory": [
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 106,
+        "medium": 0,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 35
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 106,
+        "medium": 0,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 37
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 106,
+        "medium": 0,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 39
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 28
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 318,
+        "medium": 0,
+        "long": 0,
+        "grand": 318
+      },
+      "position": 22
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 19,
+      "id": "21492",
+      "pointsDirection": 1,
+      "name": "Anthony Burrell",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 339,
+      "grandTotal": 339,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 20,
+      "id": "446",
+      "pointsDirection": 1,
+      "name": "Paul Hague",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 112.33333333333333,
+      "predictedFinalPoints": 337,
+      "grandTotal": 337,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 21,
+      "id": "14094",
+      "pointsDirection": -4,
+      "name": "Guillaume Zoppi",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 108.33333333333333,
+      "predictedFinalPoints": 325,
+      "grandTotal": 325,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 22,
+      "id": "5313",
+      "pointsDirection": -6,
+      "name": "Simon Emsley",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 318,
+      "grandTotal": 318,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 23,
+      "id": "9124",
+      "pointsDirection": -7,
+      "name": "Samuel Gray",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 291,
+      "grandTotal": 291,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 24,
+      "id": "31557",
+      "pointsDirection": -7,
+      "name": "Michael Trow",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 92.66666666666667,
+      "predictedFinalPoints": 278,
+      "grandTotal": 278,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 25,
+      "id": "16523",
+      "pointsDirection": 4,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 240,
+      "grandTotal": 240,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

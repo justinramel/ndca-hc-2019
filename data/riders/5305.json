@@ -1,0 +1,477 @@
+{
+  "id": "5305",
+  "name": "Ian Gallon",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18267",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "08 September 2019",
+        "club": "North Tyneside Riders CC",
+        "position": "16",
+        "time": "0:08:42.9",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "North Tyneside Riders CC",
+        "position": "18",
+        "time": "0:20:51.2",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 109,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 109,
+    "remainingShortPoints": 382,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 382,
+    "predictedFinalPoints": 218,
+    "pointsDirection": 5,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 218,
+      "medium": 0,
+      "long": 0,
+      "grand": 218
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18267",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "08 September 2019",
+        "club": "North Tyneside Riders CC",
+        "position": "16",
+        "time": "0:08:42.9",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "North Tyneside Riders CC",
+        "position": "18",
+        "time": "0:20:51.2",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 115.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 115.5,
+    "remainingShortPoints": 369,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 369,
+    "predictedFinalPoints": 577.5,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 231,
+      "medium": 0,
+      "long": 0,
+      "grand": 231
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18267",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "08 September 2019",
+      "club": "North Tyneside Riders CC",
+      "position": "16",
+      "time": "0:08:42.9",
+      "speed": "0.00 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 116,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "North Tyneside Riders CC",
+      "position": "18",
+      "time": "0:20:51.2",
+      "speed": "0.00 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 115,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18272",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Whittonstall 2 Stage)",
+      "course": "MH18+MH19",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 October 2019",
+      "club": "North Tyneside Riders CC",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 32,
+  "barHistory": [
+    {
+      "eventId": "18267",
+      "date": "08 September 2019",
+      "name": "MH9",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 10
+    },
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 22
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 13
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 24
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 26
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 26
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 32
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    },
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 29,
+      "id": "13843",
+      "pointsDirection": 6,
+      "name": "Adam Greenwood",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116,
+      "predictedFinalPoints": 232,
+      "grandTotal": 232,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 30,
+      "id": "21284",
+      "pointsDirection": 6,
+      "name": "Lee Cuthbertson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116,
+      "predictedFinalPoints": 232,
+      "grandTotal": 232,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 31,
+      "id": "1347",
+      "pointsDirection": 5,
+      "name": "Lee Ridden",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 32,
+      "id": "5305",
+      "pointsDirection": 5,
+      "name": "Ian Gallon",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 33,
+      "id": "20383",
+      "pointsDirection": -3,
+      "name": "Ben Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 34,
+      "id": "20333",
+      "pointsDirection": 5,
+      "name": "Tony Dougan",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 35,
+      "id": "32156",
+      "pointsDirection": 3,
+      "name": "Sam Atkinson",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 204,
+      "grandTotal": 204,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

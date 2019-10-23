@@ -1,0 +1,372 @@
+{
+  "id": "32244",
+  "name": "Robert Haney",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Allen Valley Velo",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Allen Valley Velo",
+        "position": "47",
+        "time": "0:28:34.7",
+        "speed": "0.00 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 87,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 87,
+    "remainingShortPoints": 513,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 513,
+    "predictedFinalPoints": 87,
+    "pointsDirection": 16,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 87,
+      "medium": 0,
+      "long": 0,
+      "grand": 87
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Allen Valley Velo",
+        "position": "47",
+        "time": "0:28:34.7",
+        "speed": "0.00 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 107,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 107,
+    "remainingShortPoints": 493,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 493,
+    "predictedFinalPoints": 535,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 107,
+      "medium": 0,
+      "long": 0,
+      "grand": 107
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "Allen Valley Velo",
+      "position": "47",
+      "time": "0:28:34.7",
+      "speed": "0.00 Mph",
+      "bar": 87,
+      "barPosition": 34,
+      "vbar": 107,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 79,
+  "barHistory": [
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 87,
+        "medium": 0,
+        "long": 0,
+        "grand": 87
+      },
+      "position": 50
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 87,
+        "medium": 0,
+        "long": 0,
+        "grand": 87
+      },
+      "position": 59
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 87,
+        "medium": 0,
+        "long": 0,
+        "grand": 87
+      },
+      "position": 62
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 87,
+        "medium": 0,
+        "long": 0,
+        "grand": 87
+      },
+      "position": 63
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 87,
+        "medium": 0,
+        "long": 0,
+        "grand": 87
+      },
+      "position": 63
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 87,
+        "medium": 0,
+        "long": 0,
+        "grand": 87
+      },
+      "position": 79
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 76,
+      "id": "92",
+      "pointsDirection": 15,
+      "name": "Mick Chappel",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 89,
+      "grandTotal": 89,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 77,
+      "id": "9684",
+      "pointsDirection": 0,
+      "name": "Darren Williamson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 89,
+      "grandTotal": 89,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 78,
+      "id": "11813",
+      "pointsDirection": 16,
+      "name": "Rhiannon Robinson",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 88,
+      "grandTotal": 88,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 79,
+      "id": "32244",
+      "pointsDirection": 16,
+      "name": "Robert Haney",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 87,
+      "grandTotal": 87,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 80,
+      "id": "28335",
+      "pointsDirection": 0,
+      "name": "Alan Henry",
+      "club": "Zeus CRT",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 87,
+      "grandTotal": 87,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 81,
+      "id": "11392",
+      "pointsDirection": 17,
+      "name": "Sheena Harrison",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 86,
+      "predictedFinalPoints": 86,
+      "grandTotal": 86,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 82,
+      "id": "19076",
+      "pointsDirection": 17,
+      "name": "Marianne Pughe",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 85,
+      "predictedFinalPoints": 85,
+      "grandTotal": 85,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

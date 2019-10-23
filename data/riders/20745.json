@@ -1,0 +1,324 @@
+{
+  "id": "20745",
+  "name": "Lewis Ives",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Houghton CC",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17235",
+        "raceCategory": "short",
+        "name": "Houghton Cycling Club",
+        "course": "MH10",
+        "distance": 0,
+        "fee": 9,
+        "date": "14 October 2018",
+        "club": "Houghton CC",
+        "position": "30",
+        "time": "0:02:45.2",
+        "speed": "0.00 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 101,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 101,
+    "remainingShortPoints": 739,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 739,
+    "predictedFinalPoints": 101,
+    "pointsDirection": 8,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 101,
+      "medium": 0,
+      "long": 0,
+      "grand": 101
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "17235",
+        "raceCategory": "short",
+        "name": "Houghton Cycling Club",
+        "course": "MH10",
+        "distance": 0,
+        "fee": 9,
+        "date": "14 October 2018",
+        "club": "Houghton CC",
+        "position": "30",
+        "time": "0:02:45.2",
+        "speed": "0.00 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 840,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 120,
+      "medium": 0,
+      "long": 0,
+      "grand": 120
+    }
+  },
+  "races": [
+    {
+      "eventId": "17235",
+      "raceCategory": "short",
+      "name": "Houghton Cycling Club",
+      "course": "MH10",
+      "distance": 0,
+      "fee": 9,
+      "date": "14 October 2018",
+      "club": "Houghton CC",
+      "position": "30",
+      "time": "0:02:45.2",
+      "speed": "0.00 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    }
+  ],
+  "position": 86,
+  "barHistory": [
+    {
+      "eventId": "17235",
+      "date": "14 October 2018",
+      "name": "MH10",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 78
+    },
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 86
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 83,
+      "id": "27631",
+      "pointsDirection": 0,
+      "name": "James Holt",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 102,
+      "grandTotal": 102,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 84,
+      "id": "27458",
+      "pointsDirection": 0,
+      "name": "Ryan Parkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 102,
+      "grandTotal": 102,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 85,
+      "id": "5169",
+      "pointsDirection": 8,
+      "name": "Tim Nichol",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 86,
+      "id": "20745",
+      "pointsDirection": 8,
+      "name": "Lewis Ives",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 87,
+      "id": "11437",
+      "pointsDirection": 8,
+      "name": "James Corfield",
+      "club": "GS Metro",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 99,
+      "grandTotal": 99,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 88,
+      "id": "2980",
+      "pointsDirection": 8,
+      "name": "Paul Robson",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 98,
+      "predictedFinalPoints": 98,
+      "grandTotal": 98,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 89,
+      "id": "18356",
+      "pointsDirection": 8,
+      "name": "Christine Marshall",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 97,
+      "grandTotal": 97,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

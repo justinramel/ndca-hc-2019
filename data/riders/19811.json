@@ -1,0 +1,291 @@
+{
+  "id": "19811",
+  "name": "David Hill",
+  "sex": "Male",
+  "category": "",
+  "club": "Velo Club Cumbria",
+  "bar": {
+    "short": [
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "Velo Club Cumbria",
+        "position": "24",
+        "time": "0:04:42.8",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "Velo Club Cumbria",
+      "position": "24",
+      "time": "0:04:42.8",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 151,
+  "barHistory": [
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 151
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 148,
+      "id": "2385",
+      "pointsDirection": 0,
+      "name": "David Huck",
+      "club": "Barrow Central Wheelers",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 149,
+      "id": "20995",
+      "pointsDirection": 0,
+      "name": "Brian Ward",
+      "club": "Protech Velo",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 150,
+      "id": "30680",
+      "pointsDirection": 0,
+      "name": "Benjamin Johnston",
+      "club": "Berwick Wheelers Cycling Club",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 151,
+      "id": "19811",
+      "pointsDirection": 0,
+      "name": "David Hill",
+      "club": "Velo Club Cumbria",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 152,
+      "id": "8118",
+      "pointsDirection": 0,
+      "name": "John Sample",
+      "club": "Protech Velo",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 153,
+      "id": "26719",
+      "pointsDirection": 0,
+      "name": "Graeme Self",
+      "club": "Pedalling Squares",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 154,
+      "id": "11366",
+      "pointsDirection": 0,
+      "name": "Alex Ingham",
+      "club": "AIMS Cycling",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

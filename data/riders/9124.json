@@ -1,0 +1,471 @@
+{
+  "id": "9124",
+  "name": "Samuel Gray",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18267",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "08 September 2019",
+        "club": "Muckle Cycle Club",
+        "position": "25",
+        "time": "0:09:17.9",
+        "speed": "0.00 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18268",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "15 September 2019",
+        "club": "Muckle Cycle Club",
+        "position": "31",
+        "time": "0:06:01.3",
+        "speed": "0.00 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "Muckle Cycle Club",
+        "position": "53",
+        "time": "0:05:22.2",
+        "speed": "0.00 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 97,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 97,
+    "remainingShortPoints": 309,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 309,
+    "predictedFinalPoints": 291,
+    "pointsDirection": -7,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 291,
+      "medium": 0,
+      "long": 0,
+      "grand": 291
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18267",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "08 September 2019",
+      "club": "Muckle Cycle Club",
+      "position": "25",
+      "time": "0:09:17.9",
+      "speed": "0.00 Mph",
+      "bar": 104,
+      "barPosition": 17,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18268",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "15 September 2019",
+      "club": "Muckle Cycle Club",
+      "position": "31",
+      "time": "0:06:01.3",
+      "speed": "0.00 Mph",
+      "bar": 102,
+      "barPosition": 19,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18270",
+      "raceCategory": "short",
+      "name": "Cestria CC (Peth Bank)",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 11,
+      "date": "28 September 2019",
+      "club": "Muckle Cycle Club",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "Muckle Cycle Club",
+      "position": "53",
+      "time": "0:05:22.2",
+      "speed": "0.00 Mph",
+      "bar": 85,
+      "barPosition": 36,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 23,
+  "barHistory": [
+    {
+      "eventId": "18267",
+      "date": "08 September 2019",
+      "name": "MH9",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 17
+    },
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 11
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 17
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 26
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 28
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 29
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 30
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 291,
+        "medium": 0,
+        "long": 0,
+        "grand": 291
+      },
+      "position": 23
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 20,
+      "id": "446",
+      "pointsDirection": 1,
+      "name": "Paul Hague",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 112.33333333333333,
+      "predictedFinalPoints": 337,
+      "grandTotal": 337,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 21,
+      "id": "14094",
+      "pointsDirection": -4,
+      "name": "Guillaume Zoppi",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 108.33333333333333,
+      "predictedFinalPoints": 325,
+      "grandTotal": 325,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 22,
+      "id": "5313",
+      "pointsDirection": -6,
+      "name": "Simon Emsley",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 318,
+      "grandTotal": 318,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 23,
+      "id": "9124",
+      "pointsDirection": -7,
+      "name": "Samuel Gray",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 291,
+      "grandTotal": 291,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 24,
+      "id": "31557",
+      "pointsDirection": -7,
+      "name": "Michael Trow",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 92.66666666666667,
+      "predictedFinalPoints": 278,
+      "grandTotal": 278,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 25,
+      "id": "16523",
+      "pointsDirection": 4,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 240,
+      "grandTotal": 240,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 26,
+      "id": "24395",
+      "pointsDirection": -9,
+      "name": "Andy Richardson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 118,
+      "predictedFinalPoints": 236,
+      "grandTotal": 236,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

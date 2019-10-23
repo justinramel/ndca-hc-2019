@@ -1,0 +1,332 @@
+{
+  "id": "21614",
+  "name": "Tina Howe",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17226",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 9,
+        "date": "21 October 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "104",
+        "time": "0:07:17",
+        "speed": "0.00 Mph",
+        "bar": 49,
+        "barPosition": 72,
+        "vbar": 92,
+        "lbar": 112,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 49,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 49,
+    "remainingShortPoints": 791,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 791,
+    "predictedFinalPoints": 49,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 49,
+      "medium": 0,
+      "long": 0,
+      "grand": 49
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "17226",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 9,
+        "date": "21 October 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "104",
+        "time": "0:07:17",
+        "speed": "0.00 Mph",
+        "bar": 49,
+        "barPosition": 72,
+        "vbar": 92,
+        "lbar": 112,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 92,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 92,
+    "remainingShortPoints": 748,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 748,
+    "predictedFinalPoints": 644,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 92,
+      "medium": 0,
+      "long": 0,
+      "grand": 92
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "17226",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 9,
+        "date": "21 October 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "104",
+        "time": "0:07:17",
+        "speed": "0.00 Mph",
+        "bar": 49,
+        "barPosition": 72,
+        "vbar": 92,
+        "lbar": 112,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 112,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 112,
+    "remainingShortPoints": 728,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 728,
+    "predictedFinalPoints": 784,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 112,
+      "medium": 0,
+      "long": 0,
+      "grand": 112
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17226",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 9,
+      "date": "21 October 2018",
+      "club": "North Tyneside Riders CC",
+      "position": "104",
+      "time": "0:07:17",
+      "speed": "0.00 Mph",
+      "bar": 49,
+      "barPosition": 72,
+      "vbar": 92,
+      "lbar": 112,
+      "jbar": 0
+    }
+  ],
+  "position": 116,
+  "barHistory": [
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 116
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 113,
+      "id": "15551",
+      "pointsDirection": 0,
+      "name": "Robert Munro",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 56,
+      "predictedFinalPoints": 56,
+      "grandTotal": 56,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 114,
+      "id": "9805",
+      "pointsDirection": 0,
+      "name": "Ian Stanners",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 53,
+      "predictedFinalPoints": 53,
+      "grandTotal": 53,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 115,
+      "id": "3585",
+      "pointsDirection": 0,
+      "name": "David Milton",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 51,
+      "predictedFinalPoints": 51,
+      "grandTotal": 51,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 116,
+      "id": "21614",
+      "pointsDirection": 0,
+      "name": "Tina Howe",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 49,
+      "predictedFinalPoints": 49,
+      "grandTotal": 49,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 117,
+      "id": "92",
+      "pointsDirection": 4,
+      "name": "Mick Chappel",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 48,
+      "predictedFinalPoints": 48,
+      "grandTotal": 48,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 118,
+      "id": "7899",
+      "pointsDirection": 32,
+      "name": "Adam Kenway",
+      "club": "VITUS PRO CYCLING",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 119,
+      "id": "26382",
+      "pointsDirection": 32,
+      "name": "Joshua Hodgson",
+      "club": "Newcastle Cheviot CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

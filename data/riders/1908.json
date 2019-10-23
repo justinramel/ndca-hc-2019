@@ -1,0 +1,389 @@
+{
+  "id": "1908",
+  "name": "Fiona Burnie",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "GS Metro",
+  "inBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18268",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "15 September 2019",
+        "club": "GS Metro",
+        "position": "15",
+        "time": "0:05:05.3",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 487,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 487,
+    "predictedFinalPoints": 113,
+    "pointsDirection": 4,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 113,
+      "medium": 0,
+      "long": 0,
+      "grand": 113
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "18268",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "15 September 2019",
+        "club": "GS Metro",
+        "position": "15",
+        "time": "0:05:05.3",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 480,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 600,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 120,
+      "medium": 0,
+      "long": 0,
+      "grand": 120
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18268",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "15 September 2019",
+      "club": "GS Metro",
+      "position": "15",
+      "time": "0:05:05.3",
+      "speed": "0.00 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 0,
+      "lbar": 120,
+      "jbar": 0
+    }
+  ],
+  "position": 41,
+  "barHistory": [
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 20
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 29
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 32
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 35
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 37
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 37
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 41
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 38,
+      "id": "13005",
+      "pointsDirection": 5,
+      "name": "Mick Jones",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 119,
+      "grandTotal": 119,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 39,
+      "id": "58",
+      "pointsDirection": 0,
+      "name": "John Bowman",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 118,
+      "predictedFinalPoints": 118,
+      "grandTotal": 118,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 40,
+      "id": "6348",
+      "pointsDirection": 0,
+      "name": "Josh Craven",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 114,
+      "grandTotal": 114,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 41,
+      "id": "1908",
+      "pointsDirection": 4,
+      "name": "Fiona Burnie",
+      "club": "GS Metro",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 113,
+      "grandTotal": 113,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 42,
+      "id": "55",
+      "pointsDirection": 4,
+      "name": "Ben Lane",
+      "club": "GS Metro",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 113,
+      "grandTotal": 113,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 43,
+      "id": "17976",
+      "pointsDirection": -68,
+      "name": "Scott Mccance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 113,
+      "grandTotal": 113,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 44,
+      "id": "18199",
+      "pointsDirection": 5,
+      "name": "Julian Macbride",
+      "club": "Team Kirkley Cycles",
+      "averagePointsPerRace": 111,
+      "predictedFinalPoints": 111,
+      "grandTotal": 111,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

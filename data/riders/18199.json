@@ -1,0 +1,357 @@
+{
+  "id": "18199",
+  "name": "Julian Macbride",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Team Kirkley Cycles",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Team Kirkley Cycles",
+        "position": "12",
+        "time": "0:19:39.0",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 111,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 111,
+    "remainingShortPoints": 489,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 489,
+    "predictedFinalPoints": 111,
+    "pointsDirection": 5,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 111,
+      "medium": 0,
+      "long": 0,
+      "grand": 111
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "Team Kirkley Cycles",
+      "position": "12",
+      "time": "0:19:39.0",
+      "speed": "0.00 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 44,
+  "barHistory": [
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 33
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 35
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 37
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 39
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 39
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 44
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 41,
+      "id": "1908",
+      "pointsDirection": 4,
+      "name": "Fiona Burnie",
+      "club": "GS Metro",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 113,
+      "grandTotal": 113,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 42,
+      "id": "55",
+      "pointsDirection": 4,
+      "name": "Ben Lane",
+      "club": "GS Metro",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 113,
+      "grandTotal": 113,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 43,
+      "id": "17976",
+      "pointsDirection": -68,
+      "name": "Scott Mccance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 113,
+      "grandTotal": 113,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 44,
+      "id": "18199",
+      "pointsDirection": 5,
+      "name": "Julian Macbride",
+      "club": "Team Kirkley Cycles",
+      "averagePointsPerRace": 111,
+      "predictedFinalPoints": 111,
+      "grandTotal": 111,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 45,
+      "id": "30663",
+      "pointsDirection": 5,
+      "name": "Craig Usher",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 110,
+      "predictedFinalPoints": 110,
+      "grandTotal": 110,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 46,
+      "id": "24253",
+      "pointsDirection": 0,
+      "name": "Lewis Wake",
+      "club": "Team Kirkley Cycles",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 109,
+      "grandTotal": 109,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 47,
+      "id": "18015",
+      "pointsDirection": 0,
+      "name": "David Nearney",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 108,
+      "grandTotal": 108,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

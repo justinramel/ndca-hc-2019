@@ -1,0 +1,291 @@
+{
+  "id": "27637",
+  "name": "Jack Boaden",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Castle Tri",
+  "bar": {
+    "short": [
+      {
+        "eventId": "17226",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 9,
+        "date": "21 October 2018",
+        "club": "Castle Tri",
+        "position": "38",
+        "time": "0:04:40",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17226",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 9,
+      "date": "21 October 2018",
+      "club": "Castle Tri",
+      "position": "38",
+      "time": "0:04:40",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 180,
+  "barHistory": [
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 180
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 177,
+      "id": "24212",
+      "pointsDirection": 0,
+      "name": "Joe Wilson",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 178,
+      "id": "24339",
+      "pointsDirection": 0,
+      "name": "Harris Coupland",
+      "club": "Fechan flyers",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 179,
+      "id": "26719",
+      "pointsDirection": 0,
+      "name": "Graeme Self",
+      "club": "Pedalling Squares",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 180,
+      "id": "27637",
+      "pointsDirection": 0,
+      "name": "Jack Boaden",
+      "club": "Castle Tri",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 181,
+      "id": "8395",
+      "pointsDirection": 0,
+      "name": "Archie Irving",
+      "club": "Beacon Wheelers",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 182,
+      "id": "24684",
+      "pointsDirection": 0,
+      "name": "Brian Oakley",
+      "club": "Whitby Whs",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 183,
+      "id": "23836",
+      "pointsDirection": 0,
+      "name": "Christopher Wayman",
+      "club": "EMC Cycling",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

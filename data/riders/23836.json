@@ -1,0 +1,292 @@
+{
+  "id": "23836",
+  "name": "Christopher Wayman",
+  "sex": "Male",
+  "category": "",
+  "club": "EMC Cycling",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "EMC Cycling",
+        "position": "31",
+        "time": "0:04:54.1",
+        "speed": "0.00 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 101,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 101,
+    "remainingShortPoints": 499,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 499,
+    "predictedFinalPoints": 101,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 101,
+      "medium": 0,
+      "long": 0,
+      "grand": 101
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "EMC Cycling",
+      "position": "31",
+      "time": "0:04:54.1",
+      "speed": "0.00 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 61,
+  "barHistory": [
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 61
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 58,
+      "id": "5494",
+      "pointsDirection": 9,
+      "name": "Stephen Kerr",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 102,
+      "grandTotal": 102,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 59,
+      "id": "22857",
+      "pointsDirection": 9,
+      "name": "Rachel Galler",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "31274",
+      "pointsDirection": 9,
+      "name": "Ian Dodds",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "23836",
+      "pointsDirection": 0,
+      "name": "Christopher Wayman",
+      "club": "EMC Cycling",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "18204",
+      "pointsDirection": 9,
+      "name": "Joanne Rea",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 100,
+      "predictedFinalPoints": 100,
+      "grandTotal": 100,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "32343",
+      "pointsDirection": 9,
+      "name": "Donna Mcbride",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 100,
+      "predictedFinalPoints": 100,
+      "grandTotal": 100,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 64,
+      "id": "18333",
+      "pointsDirection": 0,
+      "name": "Peter Stokoe",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 99,
+      "grandTotal": 99,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

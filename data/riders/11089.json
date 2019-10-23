@@ -1,0 +1,292 @@
+{
+  "id": "11089",
+  "name": "Daniel O'callaghan",
+  "sex": "Male",
+  "category": "",
+  "club": "South Shields Velo Cycling Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "South Shields Velo Cycling Club",
+        "position": "63",
+        "time": "0:05:40.3",
+        "speed": "0.00 Mph",
+        "bar": 75,
+        "barPosition": 46,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 75,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 75,
+    "remainingShortPoints": 525,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 525,
+    "predictedFinalPoints": 75,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 75,
+      "medium": 0,
+      "long": 0,
+      "grand": 75
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "South Shields Velo Cycling Club",
+      "position": "63",
+      "time": "0:05:40.3",
+      "speed": "0.00 Mph",
+      "bar": 75,
+      "barPosition": 46,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 93,
+  "barHistory": [
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 75,
+        "medium": 0,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 93
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 90,
+      "id": "2151",
+      "pointsDirection": 0,
+      "name": "Stephen Magrath",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 78,
+      "predictedFinalPoints": 78,
+      "grandTotal": 78,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 91,
+      "id": "21008",
+      "pointsDirection": 0,
+      "name": "Michael Noble",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 77,
+      "predictedFinalPoints": 77,
+      "grandTotal": 77,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 92,
+      "id": "1794",
+      "pointsDirection": 0,
+      "name": "Carl Foreman",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 76,
+      "grandTotal": 76,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 93,
+      "id": "11089",
+      "pointsDirection": 0,
+      "name": "Daniel O'callaghan",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 75,
+      "predictedFinalPoints": 75,
+      "grandTotal": 75,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 94,
+      "id": "6215",
+      "pointsDirection": 0,
+      "name": "Dean Madden",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 74,
+      "grandTotal": 74,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 95,
+      "id": "9805",
+      "pointsDirection": 0,
+      "name": "Ian Stanners",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 72,
+      "predictedFinalPoints": 72,
+      "grandTotal": 72,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 96,
+      "id": "10722",
+      "pointsDirection": 0,
+      "name": "Jen Mcmahon",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "id": "21492",
+  "name": "Anthony Burrell",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Houghton CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18270",
+        "raceCategory": "short",
+        "name": "Cestria CC (Peth Bank)",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 11,
+        "date": "28 September 2019",
+        "club": "Houghton CC",
+        "position": "12",
+        "time": "0:05:08.5",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18271",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "29 September 2019",
+        "club": "Houghton CC",
+        "position": "12",
+        "time": "0:08:51.2",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18273",
+        "raceCategory": "short",
+        "name": "Houghton Cycling Club (Quarrington Hill)",
+        "course": "MH10",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 October 2019",
+        "club": "Houghton CC",
+        "position": "16",
+        "time": "0:02:53.0",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 261,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 261,
+    "predictedFinalPoints": 339,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 339,
+      "medium": 0,
+      "long": 0,
+      "grand": 339
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18270",
+        "raceCategory": "short",
+        "name": "Cestria CC (Peth Bank)",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 11,
+        "date": "28 September 2019",
+        "club": "Houghton CC",
+        "position": "12",
+        "time": "0:05:08.5",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18271",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "29 September 2019",
+        "club": "Houghton CC",
+        "position": "12",
+        "time": "0:08:51.2",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18273",
+        "raceCategory": "short",
+        "name": "Houghton Cycling Club (Quarrington Hill)",
+        "course": "MH10",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 October 2019",
+        "club": "Houghton CC",
+        "position": "16",
+        "time": "0:02:53.0",
+        "speed": "0.00 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 117.33333333333333,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 117.33333333333333,
+    "remainingShortPoints": 248,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 248,
+    "predictedFinalPoints": 586.6666666666666,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 352,
+      "medium": 0,
+      "long": 0,
+      "grand": 352
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18270",
+      "raceCategory": "short",
+      "name": "Cestria CC (Peth Bank)",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 11,
+      "date": "28 September 2019",
+      "club": "Houghton CC",
+      "position": "12",
+      "time": "0:05:08.5",
+      "speed": "0.00 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18271",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "29 September 2019",
+      "club": "Houghton CC",
+      "position": "12",
+      "time": "0:08:51.2",
+      "speed": "0.00 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18273",
+      "raceCategory": "short",
+      "name": "Houghton Cycling Club (Quarrington Hill)",
+      "course": "MH10",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 October 2019",
+      "club": "Houghton CC",
+      "position": "16",
+      "time": "0:02:53.0",
+      "speed": "0.00 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 19,
+  "barHistory": [
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 34
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 226,
+        "medium": 0,
+        "long": 0,
+        "grand": 226
+      },
+      "position": 23
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 226,
+        "medium": 0,
+        "long": 0,
+        "grand": 226
+      },
+      "position": 23
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 339,
+        "medium": 0,
+        "long": 0,
+        "grand": 339
+      },
+      "position": 18
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 339,
+        "medium": 0,
+        "long": 0,
+        "grand": 339
+      },
+      "position": 19
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "3 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 16,
+      "id": "18403",
+      "pointsDirection": 0,
+      "name": "Graeme Kirton",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 115,
+      "predictedFinalPoints": 460,
+      "grandTotal": 460,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 17,
+      "id": "3216",
+      "pointsDirection": 0,
+      "name": "Clive Allan",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 452,
+      "grandTotal": 452,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 18,
+      "id": "27625",
+      "pointsDirection": -2,
+      "name": "Euan Dinning",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 98.25,
+      "predictedFinalPoints": 393,
+      "grandTotal": 393,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 19,
+      "id": "21492",
+      "pointsDirection": 1,
+      "name": "Anthony Burrell",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 113,
+      "predictedFinalPoints": 339,
+      "grandTotal": 339,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 20,
+      "id": "446",
+      "pointsDirection": 1,
+      "name": "Paul Hague",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 112.33333333333333,
+      "predictedFinalPoints": 337,
+      "grandTotal": 337,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 21,
+      "id": "14094",
+      "pointsDirection": -4,
+      "name": "Guillaume Zoppi",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 108.33333333333333,
+      "predictedFinalPoints": 325,
+      "grandTotal": 325,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 22,
+      "id": "5313",
+      "pointsDirection": -6,
+      "name": "Simon Emsley",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 318,
+      "grandTotal": 318,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

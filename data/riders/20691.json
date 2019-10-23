@@ -1,0 +1,498 @@
+{
+  "id": "20691",
+  "name": "Stephen Marchbanks",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17229",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Stage 1)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "09 September 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "22",
+        "time": "0:09:50.0",
+        "speed": "0.00 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17229S2",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Stage 2)",
+        "course": "MH17",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "09 September 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "22",
+        "time": "0:05:54.5",
+        "speed": "0.00 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 103,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 103,
+    "remainingShortPoints": 634,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 634,
+    "predictedFinalPoints": 206,
+    "pointsDirection": 7,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 206,
+      "medium": 0,
+      "long": 0,
+      "grand": 206
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "17229",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Stage 1)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "09 September 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "22",
+        "time": "0:09:50.0",
+        "speed": "0.00 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17229S2",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Stage 2)",
+        "course": "MH17",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "09 September 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "22",
+        "time": "0:05:54.5",
+        "speed": "0.00 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 614,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 614,
+    "predictedFinalPoints": 791,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 226,
+      "medium": 0,
+      "long": 0,
+      "grand": 226
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17229",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Stage 1)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "09 September 2018",
+      "club": "North Tyneside Riders CC",
+      "position": "22",
+      "time": "0:09:50.0",
+      "speed": "0.00 Mph",
+      "bar": 103,
+      "barPosition": 18,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17229S2",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Stage 2)",
+      "course": "MH17",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "09 September 2018",
+      "club": "North Tyneside Riders CC",
+      "position": "22",
+      "time": "0:05:54.5",
+      "speed": "0.00 Mph",
+      "bar": 103,
+      "barPosition": 18,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 60,
+  "barHistory": [
+    {
+      "eventId": "17229",
+      "date": "09 September 2018",
+      "name": "MH9",
+      "points": {
+        "short": 103,
+        "medium": 0,
+        "long": 0,
+        "grand": 103
+      },
+      "position": 18
+    },
+    {
+      "eventId": "17229S2",
+      "date": "09 September 2018",
+      "name": "MH17",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 18
+    },
+    {
+      "eventId": "17233",
+      "date": "16 September 2018",
+      "name": "MH11",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 21
+    },
+    {
+      "eventId": "17231",
+      "date": "23 September 2018",
+      "name": "MH16",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 24
+    },
+    {
+      "eventId": "17231S2",
+      "date": "23 September 2018",
+      "name": "MH15",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 36
+    },
+    {
+      "eventId": "17238",
+      "date": "29 September 2018",
+      "name": "MH2",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 39
+    },
+    {
+      "eventId": "17232",
+      "date": "30 September 2018",
+      "name": "MH4",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 42
+    },
+    {
+      "eventId": "17232S2",
+      "date": "30 September 2018",
+      "name": "MH20",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 46
+    },
+    {
+      "eventId": "17234",
+      "date": "07 October 2018",
+      "name": "MH18",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 51
+    },
+    {
+      "eventId": "17234S2",
+      "date": "07 October 2018",
+      "name": "MH19",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 52
+    },
+    {
+      "eventId": "17235",
+      "date": "14 October 2018",
+      "name": "MH10",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 53
+    },
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 60
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 57,
+      "id": "12505",
+      "pointsDirection": -9,
+      "name": "Richard Hirst",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 71.33333333333333,
+      "predictedFinalPoints": 214,
+      "grandTotal": 214,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 58,
+      "id": "24562",
+      "pointsDirection": 7,
+      "name": "Gavin Richardson",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 105.5,
+      "predictedFinalPoints": 211,
+      "grandTotal": 211,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 59,
+      "id": "11558",
+      "pointsDirection": 7,
+      "name": "Barry Fordham",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 103.5,
+      "predictedFinalPoints": 207,
+      "grandTotal": 207,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "20691",
+      "pointsDirection": 7,
+      "name": "Stephen Marchbanks",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 206,
+      "grandTotal": 206,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "18199",
+      "pointsDirection": 7,
+      "name": "Julian Macbride",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 206,
+      "grandTotal": 206,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "27147",
+      "pointsDirection": 4,
+      "name": "Ian Clark",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 96.5,
+      "predictedFinalPoints": 193,
+      "grandTotal": 193,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "5494",
+      "pointsDirection": 3,
+      "name": "Stephen Kerr",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 94.5,
+      "predictedFinalPoints": 189,
+      "grandTotal": 189,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

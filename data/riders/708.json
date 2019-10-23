@@ -1,0 +1,388 @@
+{
+  "id": "708",
+  "name": "Christopher Beaty",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Allen Valley Velo",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Allen Valley Velo",
+        "position": "29",
+        "time": "0:22:05.1",
+        "speed": "0.00 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "Allen Valley Velo",
+        "position": "56",
+        "time": "0:05:26.5",
+        "speed": "0.00 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 90.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 90.5,
+    "remainingShortPoints": 419,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 419,
+    "predictedFinalPoints": 181,
+    "pointsDirection": -19,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 181,
+      "medium": 0,
+      "long": 0,
+      "grand": 181
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "Allen Valley Velo",
+      "position": "29",
+      "time": "0:22:05.1",
+      "speed": "0.00 Mph",
+      "bar": 99,
+      "barPosition": 22,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "Allen Valley Velo",
+      "position": "56",
+      "time": "0:05:26.5",
+      "speed": "0.00 Mph",
+      "bar": 82,
+      "barPosition": 39,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 36,
+  "barHistory": [
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 99,
+        "medium": 0,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 43
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 99,
+        "medium": 0,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 50
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 99,
+        "medium": 0,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 54
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 99,
+        "medium": 0,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 99,
+        "medium": 0,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 181,
+        "medium": 0,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 36
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 33,
+      "id": "20383",
+      "pointsDirection": -3,
+      "name": "Ben Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 34,
+      "id": "20333",
+      "pointsDirection": 5,
+      "name": "Tony Dougan",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 35,
+      "id": "32156",
+      "pointsDirection": 3,
+      "name": "Sam Atkinson",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 204,
+      "grandTotal": 204,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 36,
+      "id": "708",
+      "pointsDirection": -19,
+      "name": "Christopher Beaty",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 90.5,
+      "predictedFinalPoints": 181,
+      "grandTotal": 181,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 37,
+      "id": "3383",
+      "pointsDirection": -15,
+      "name": "Mark Riley",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 83.5,
+      "predictedFinalPoints": 167,
+      "grandTotal": 167,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 38,
+      "id": "13005",
+      "pointsDirection": 5,
+      "name": "Mick Jones",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 119,
+      "grandTotal": 119,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 39,
+      "id": "58",
+      "pointsDirection": 0,
+      "name": "John Bowman",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 118,
+      "predictedFinalPoints": 118,
+      "grandTotal": 118,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

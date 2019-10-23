@@ -1,0 +1,292 @@
+{
+  "id": "21565",
+  "name": "Simon Walker",
+  "sex": "Male",
+  "category": "",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "Muckle Cycle Club",
+        "position": "39",
+        "time": "0:05:04.9",
+        "speed": "0.00 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 94,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 94,
+    "remainingShortPoints": 506,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 506,
+    "predictedFinalPoints": 94,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 94,
+      "medium": 0,
+      "long": 0,
+      "grand": 94
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "Muckle Cycle Club",
+      "position": "39",
+      "time": "0:05:04.9",
+      "speed": "0.00 Mph",
+      "bar": 94,
+      "barPosition": 27,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 72,
+  "barHistory": [
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 72
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 69,
+      "id": "32253",
+      "pointsDirection": 11,
+      "name": "Robin Karleskind",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 70,
+      "id": "14110",
+      "pointsDirection": 0,
+      "name": "Shaun Brannan",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 71,
+      "id": "27001",
+      "pointsDirection": 12,
+      "name": "Tim Burdon",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 72,
+      "id": "21565",
+      "pointsDirection": 0,
+      "name": "Simon Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 73,
+      "id": "7758",
+      "pointsDirection": 13,
+      "name": "Craig Bell",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 93,
+      "grandTotal": 93,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 74,
+      "id": "24008",
+      "pointsDirection": -35,
+      "name": "Ben Wilkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 93,
+      "grandTotal": 93,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 75,
+      "id": "32496",
+      "pointsDirection": 0,
+      "name": "Johnathon Dorward",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 92,
+      "predictedFinalPoints": 92,
+      "grandTotal": 92,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

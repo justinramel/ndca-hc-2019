@@ -1,0 +1,420 @@
+{
+  "id": "1717",
+  "name": "Graham Mckinney",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17234S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Blaydon CC",
+        "position": "34",
+        "time": "0:09:15.6",
+        "speed": "0.00 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17234",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Blaydon CC",
+        "position": "35",
+        "time": "0:02:46.9",
+        "speed": "0.00 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 93.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 93.5,
+    "remainingShortPoints": 653,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 653,
+    "predictedFinalPoints": 187,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 187,
+      "medium": 0,
+      "long": 0,
+      "grand": 187
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "17234S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Blaydon CC",
+        "position": "34",
+        "time": "0:09:15.6",
+        "speed": "0.00 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17234",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Blaydon CC",
+        "position": "35",
+        "time": "0:02:46.9",
+        "speed": "0.00 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 108.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108.5,
+    "remainingShortPoints": 623,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 623,
+    "predictedFinalPoints": 759.5,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 217,
+      "medium": 0,
+      "long": 0,
+      "grand": 217
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17234",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "07 October 2018",
+      "club": "Blaydon CC",
+      "position": "35",
+      "time": "0:02:46.9",
+      "speed": "0.00 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 108,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17234S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "07 October 2018",
+      "club": "Blaydon CC",
+      "position": "34",
+      "time": "0:09:15.6",
+      "speed": "0.00 Mph",
+      "bar": 94,
+      "barPosition": 27,
+      "vbar": 109,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17226",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 9,
+      "date": "21 October 2018",
+      "club": "Blaydon CC",
+      "position": "APOLS",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 64,
+  "barHistory": [
+    {
+      "eventId": "17234",
+      "date": "07 October 2018",
+      "name": "MH18",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 74
+    },
+    {
+      "eventId": "17234S2",
+      "date": "07 October 2018",
+      "name": "MH19",
+      "points": {
+        "short": 187,
+        "medium": 0,
+        "long": 0,
+        "grand": 187
+      },
+      "position": 60
+    },
+    {
+      "eventId": "17235",
+      "date": "14 October 2018",
+      "name": "MH10",
+      "points": {
+        "short": 187,
+        "medium": 0,
+        "long": 0,
+        "grand": 187
+      },
+      "position": 61
+    },
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 187,
+        "medium": 0,
+        "long": 0,
+        "grand": 187
+      },
+      "position": 64
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "18199",
+      "pointsDirection": 7,
+      "name": "Julian Macbride",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 206,
+      "grandTotal": 206,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "27147",
+      "pointsDirection": 4,
+      "name": "Ian Clark",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 96.5,
+      "predictedFinalPoints": 193,
+      "grandTotal": 193,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "5494",
+      "pointsDirection": 3,
+      "name": "Stephen Kerr",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 94.5,
+      "predictedFinalPoints": 189,
+      "grandTotal": 189,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 64,
+      "id": "1717",
+      "pointsDirection": 3,
+      "name": "Graham Mckinney",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 93.5,
+      "predictedFinalPoints": 187,
+      "grandTotal": 187,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "11708",
+      "pointsDirection": 3,
+      "name": "Howie Buckingham",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84.5,
+      "predictedFinalPoints": 169,
+      "grandTotal": 169,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 66,
+      "id": "7758",
+      "pointsDirection": 3,
+      "name": "Craig Bell",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 168,
+      "grandTotal": 168,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 67,
+      "id": "27001",
+      "pointsDirection": 3,
+      "name": "Tim Burdon",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 168,
+      "grandTotal": 168,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

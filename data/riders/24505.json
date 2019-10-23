@@ -1,0 +1,361 @@
+{
+  "id": "24505",
+  "name": "Frank Devlin",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "South Shields Velo Cycling Club",
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 31,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18267",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "08 September 2019",
+      "club": "South Shields Velo Cycling Club",
+      "position": "DNS",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 112,
+  "barHistory": [
+    {
+      "eventId": "18267",
+      "date": "08 September 2019",
+      "name": "MH9",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 46
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 68
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 77
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 80
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 81
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 81
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 112
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 109,
+      "id": "27472",
+      "pointsDirection": 31,
+      "name": "Adrienne Bishop",
+      "club": "North Shields Polytechnic Club",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 110,
+      "id": "3275",
+      "pointsDirection": 31,
+      "name": "Shaun Stephenson",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 111,
+      "id": "20540",
+      "pointsDirection": 31,
+      "name": "Peter Phillipson",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 112,
+      "id": "24505",
+      "pointsDirection": 31,
+      "name": "Frank Devlin",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 113,
+      "id": "25630",
+      "pointsDirection": 31,
+      "name": "Martyn Mcwhirter",
+      "club": "Edinburgh Road Club",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 114,
+      "id": "20111",
+      "pointsDirection": 31,
+      "name": "Jacob Vezey",
+      "club": "Harrogate Nova CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 115,
+      "id": "11877",
+      "pointsDirection": 31,
+      "name": "Thomas Prentice",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

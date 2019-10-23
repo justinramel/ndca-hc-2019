@@ -1,0 +1,339 @@
+{
+  "id": "13",
+  "name": "Paul Wright",
+  "sex": "Male",
+  "category": "",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18274",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "20 October 2019",
+        "club": "Blaydon CC",
+        "position": "55",
+        "time": "0:05:25.9",
+        "speed": "0.00 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 83,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 83,
+    "remainingShortPoints": 517,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 517,
+    "predictedFinalPoints": 83,
+    "pointsDirection": -30,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 83,
+      "medium": 0,
+      "long": 0,
+      "grand": 83
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18272",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Whittonstall 2 Stage)",
+      "course": "MH18+MH19",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 October 2019",
+      "club": "Blaydon CC",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18274",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "20 October 2019",
+      "club": "Blaydon CC",
+      "position": "55",
+      "time": "0:05:25.9",
+      "speed": "0.00 Mph",
+      "bar": 83,
+      "barPosition": 38,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 86,
+  "barHistory": [
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 116
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 116
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 86
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 83,
+      "id": "11529",
+      "pointsDirection": 17,
+      "name": "Helen Richardson",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 84,
+      "id": "32590",
+      "pointsDirection": 0,
+      "name": "Christian Swan",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 85,
+      "id": "24091",
+      "pointsDirection": 18,
+      "name": "Anu Vaittinen",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 86,
+      "id": "13",
+      "pointsDirection": -30,
+      "name": "Paul Wright",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 87,
+      "id": "32211",
+      "pointsDirection": 19,
+      "name": "Darren Bewick",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 88,
+      "id": "13844",
+      "pointsDirection": 0,
+      "name": "Philip Parsley",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 89,
+      "id": "3037",
+      "pointsDirection": -11,
+      "name": "Nick Badcock",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 79,
+      "predictedFinalPoints": 79,
+      "grandTotal": 79,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

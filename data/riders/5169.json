@@ -1,0 +1,340 @@
+{
+  "id": "5169",
+  "name": "Tim Nichol",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18270",
+        "raceCategory": "short",
+        "name": "Cestria CC (Peth Bank)",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 11,
+        "date": "28 September 2019",
+        "club": "Blaydon CC",
+        "position": "29",
+        "time": "0:05:55.5",
+        "speed": "0.00 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 102,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 102,
+    "remainingShortPoints": 498,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 498,
+    "predictedFinalPoints": 102,
+    "pointsDirection": 9,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 102,
+      "medium": 0,
+      "long": 0,
+      "grand": 102
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18270",
+      "raceCategory": "short",
+      "name": "Cestria CC (Peth Bank)",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 11,
+      "date": "28 September 2019",
+      "club": "Blaydon CC",
+      "position": "29",
+      "time": "0:05:55.5",
+      "speed": "0.00 Mph",
+      "bar": 102,
+      "barPosition": 19,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 57,
+  "barHistory": [
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 43
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 46
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 48
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 48
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 57
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 54,
+      "id": "7755",
+      "pointsDirection": 9,
+      "name": "Paul Pickett",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 103,
+      "grandTotal": 103,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 55,
+      "id": "20505",
+      "pointsDirection": 9,
+      "name": "Kenny Mclellan",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 103,
+      "grandTotal": 103,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 56,
+      "id": "1884",
+      "pointsDirection": 9,
+      "name": "Don Speight",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 102,
+      "grandTotal": 102,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 57,
+      "id": "5169",
+      "pointsDirection": 9,
+      "name": "Tim Nichol",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 102,
+      "grandTotal": 102,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 58,
+      "id": "5494",
+      "pointsDirection": 9,
+      "name": "Stephen Kerr",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 102,
+      "grandTotal": 102,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 59,
+      "id": "22857",
+      "pointsDirection": 9,
+      "name": "Rachel Galler",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "31274",
+      "pointsDirection": 9,
+      "name": "Ian Dodds",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": "10556",
+  "name": "Niall Paterson",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Velo Club Cumbria",
+  "bar": {
+    "short": [
+      {
+        "eventId": "17231",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "23 September 2018",
+        "club": "Velo Club Cumbria",
+        "position": "7",
+        "time": "0:13:46.4",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17231S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "23 September 2018",
+        "club": "Velo Club Cumbria",
+        "position": "5",
+        "time": "0:04:45.5",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17234",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Velo Club Cumbria",
+        "position": "1",
+        "time": "0:01:47.4",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17234S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "07 October 2018",
+        "club": "Velo Club Cumbria",
+        "position": "4",
+        "time": "0:07:22.3",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "17226",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 9,
+        "date": "21 October 2018",
+        "club": "Velo Club Cumbria",
+        "position": "12",
+        "time": "0:04:11",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 5,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 5,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 32,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17231",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 1)",
+      "course": "MH16",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "23 September 2018",
+      "club": "Velo Club Cumbria",
+      "position": "7",
+      "time": "0:13:46.4",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17231S2",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 2)",
+      "course": "MH15",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "23 September 2018",
+      "club": "Velo Club Cumbria",
+      "position": "5",
+      "time": "0:04:45.5",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17234",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "07 October 2018",
+      "club": "Velo Club Cumbria",
+      "position": "1",
+      "time": "0:01:47.4",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17234S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "07 October 2018",
+      "club": "Velo Club Cumbria",
+      "position": "4",
+      "time": "0:07:22.3",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "17226",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 9,
+      "date": "21 October 2018",
+      "club": "Velo Club Cumbria",
+      "position": "12",
+      "time": "0:04:11",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 131,
+  "barHistory": [
+    {
+      "eventId": "17231",
+      "date": "23 September 2018",
+      "name": "MH16",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 80
+    },
+    {
+      "eventId": "17231S2",
+      "date": "23 September 2018",
+      "name": "MH15",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 80
+    },
+    {
+      "eventId": "17238",
+      "date": "29 September 2018",
+      "name": "MH2",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 85
+    },
+    {
+      "eventId": "17232",
+      "date": "30 September 2018",
+      "name": "MH4",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 89
+    },
+    {
+      "eventId": "17232S2",
+      "date": "30 September 2018",
+      "name": "MH20",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 89
+    },
+    {
+      "eventId": "17234",
+      "date": "07 October 2018",
+      "name": "MH18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 90
+    },
+    {
+      "eventId": "17234S2",
+      "date": "07 October 2018",
+      "name": "MH19",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 90
+    },
+    {
+      "eventId": "17235",
+      "date": "14 October 2018",
+      "name": "MH10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 99
+    },
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 131
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 128,
+      "id": "2999",
+      "pointsDirection": 32,
+      "name": "Philip Green",
+      "club": "GS Metro",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 129,
+      "id": "4175",
+      "pointsDirection": 32,
+      "name": "Danny Grieves",
+      "club": "GS Metro",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 130,
+      "id": "2385",
+      "pointsDirection": 32,
+      "name": "David Huck",
+      "club": "Barrow Central Wheelers",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 131,
+      "id": "10556",
+      "pointsDirection": 32,
+      "name": "Niall Paterson",
+      "club": "Velo Club Cumbria",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 132,
+      "id": "6309",
+      "pointsDirection": 32,
+      "name": "Dan Kendall",
+      "club": "Rock To Roll CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 133,
+      "id": "11763",
+      "pointsDirection": 32,
+      "name": "Sam Leng",
+      "club": "Manilla Cycling",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 134,
+      "id": "11840",
+      "pointsDirection": 32,
+      "name": "Michael Harcourt",
+      "club": "Adept Cycling",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "1711",
+  "name": "Tom Guy",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Sunderland Clarion",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18271",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "29 September 2019",
+        "club": "Sunderland Clarion",
+        "position": "21",
+        "time": "0:10:05.3",
+        "speed": "0.00 Mph",
+        "bar": 106,
+        "barPosition": 15,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 106,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 106,
+    "remainingShortPoints": 494,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 494,
+    "predictedFinalPoints": 106,
+    "pointsDirection": 7,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 106,
+      "medium": 0,
+      "long": 0,
+      "grand": 106
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18271",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "29 September 2019",
+        "club": "Sunderland Clarion",
+        "position": "21",
+        "time": "0:10:05.3",
+        "speed": "0.00 Mph",
+        "bar": 106,
+        "barPosition": 15,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 487,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 487,
+    "predictedFinalPoints": 565,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 113,
+      "medium": 0,
+      "long": 0,
+      "grand": 113
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18271",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "29 September 2019",
+      "club": "Sunderland Clarion",
+      "position": "21",
+      "time": "0:10:05.3",
+      "speed": "0.00 Mph",
+      "bar": 106,
+      "barPosition": 15,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 49,
+  "barHistory": [
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 106,
+        "medium": 0,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 40
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 106,
+        "medium": 0,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 42
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 106,
+        "medium": 0,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 42
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 106,
+        "medium": 0,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 49
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 46,
+      "id": "24253",
+      "pointsDirection": 0,
+      "name": "Lewis Wake",
+      "club": "Team Kirkley Cycles",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 109,
+      "grandTotal": 109,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 47,
+      "id": "18015",
+      "pointsDirection": 0,
+      "name": "David Nearney",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 108,
+      "grandTotal": 108,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 48,
+      "id": "8823",
+      "pointsDirection": 7,
+      "name": "James Hadfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 107,
+      "predictedFinalPoints": 107,
+      "grandTotal": 107,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 49,
+      "id": "1711",
+      "pointsDirection": 7,
+      "name": "Tom Guy",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 106,
+      "grandTotal": 106,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 50,
+      "id": "32241",
+      "pointsDirection": 0,
+      "name": "Christopher Wilcock",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 106,
+      "grandTotal": 106,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 51,
+      "id": "27458",
+      "pointsDirection": 0,
+      "name": "Ryan Parkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 105,
+      "predictedFinalPoints": 105,
+      "grandTotal": 105,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 52,
+      "id": "11437",
+      "pointsDirection": 9,
+      "name": "James Corfield",
+      "club": "GS Metro",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 104,
+      "grandTotal": 104,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

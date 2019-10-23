@@ -1,0 +1,409 @@
+{
+  "id": "21284",
+  "name": "Lee Cuthbertson",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18268",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "15 September 2019",
+        "club": "Muckle Cycle Club",
+        "position": "10",
+        "time": "0:04:47.2",
+        "speed": "0.00 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "18269",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Whitfield 2 Stage)",
+        "course": "MH15+MH16",
+        "distance": 0,
+        "fee": 10,
+        "date": "22 September 2019",
+        "club": "Muckle Cycle Club",
+        "position": "5",
+        "time": "0:18:26.9",
+        "speed": "0.00 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 368,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 368,
+    "predictedFinalPoints": 232,
+    "pointsDirection": 6,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 232,
+      "medium": 0,
+      "long": 0,
+      "grand": 232
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18268",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "15 September 2019",
+      "club": "Muckle Cycle Club",
+      "position": "10",
+      "time": "0:04:47.2",
+      "speed": "0.00 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "18269",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Whitfield 2 Stage)",
+      "course": "MH15+MH16",
+      "distance": 0,
+      "fee": 10,
+      "date": "22 September 2019",
+      "club": "Muckle Cycle Club",
+      "position": "5",
+      "time": "0:18:26.9",
+      "speed": "0.00 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 30,
+  "barHistory": [
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 116,
+        "medium": 0,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 15
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 232,
+        "medium": 0,
+        "long": 0,
+        "grand": 232
+      },
+      "position": 9
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 232,
+        "medium": 0,
+        "long": 0,
+        "grand": 232
+      },
+      "position": 16
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 232,
+        "medium": 0,
+        "long": 0,
+        "grand": 232
+      },
+      "position": 21
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 232,
+        "medium": 0,
+        "long": 0,
+        "grand": 232
+      },
+      "position": 22
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 232,
+        "medium": 0,
+        "long": 0,
+        "grand": 232
+      },
+      "position": 24
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 232,
+        "medium": 0,
+        "long": 0,
+        "grand": 232
+      },
+      "position": 30
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 27,
+      "id": "4590",
+      "pointsDirection": 5,
+      "name": "Lee Ager",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 234,
+      "grandTotal": 234,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 28,
+      "id": "9755",
+      "pointsDirection": -6,
+      "name": "Dave Diston",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 234,
+      "grandTotal": 234,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 29,
+      "id": "13843",
+      "pointsDirection": 6,
+      "name": "Adam Greenwood",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116,
+      "predictedFinalPoints": 232,
+      "grandTotal": 232,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 30,
+      "id": "21284",
+      "pointsDirection": 6,
+      "name": "Lee Cuthbertson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116,
+      "predictedFinalPoints": 232,
+      "grandTotal": 232,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 31,
+      "id": "1347",
+      "pointsDirection": 5,
+      "name": "Lee Ridden",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 32,
+      "id": "5305",
+      "pointsDirection": 5,
+      "name": "Ian Gallon",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 33,
+      "id": "20383",
+      "pointsDirection": -3,
+      "name": "Ben Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

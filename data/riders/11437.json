@@ -1,0 +1,364 @@
+{
+  "id": "11437",
+  "name": "James Corfield",
+  "sex": "Male",
+  "category": "Espoir",
+  "club": "GS Metro",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18268",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "15 September 2019",
+        "club": "GS Metro",
+        "position": "29",
+        "time": "0:05:52.6",
+        "speed": "0.00 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 104,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 104,
+    "remainingShortPoints": 496,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 496,
+    "predictedFinalPoints": 104,
+    "pointsDirection": 9,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 104,
+      "medium": 0,
+      "long": 0,
+      "grand": 104
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 600,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "18268",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "15 September 2019",
+      "club": "GS Metro",
+      "position": "29",
+      "time": "0:05:52.6",
+      "speed": "0.00 Mph",
+      "bar": 104,
+      "barPosition": 17,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 52,
+  "barHistory": [
+    {
+      "eventId": "18268",
+      "date": "15 September 2019",
+      "name": "MH11",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 26
+    },
+    {
+      "eventId": "18269",
+      "date": "22 September 2019",
+      "name": "MH15+MH16",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18270",
+      "date": "28 September 2019",
+      "name": "MH2",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 38
+    },
+    {
+      "eventId": "18271",
+      "date": "29 September 2019",
+      "name": "MH4",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 41
+    },
+    {
+      "eventId": "18272",
+      "date": "06 October 2019",
+      "name": "MH18+MH19",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 43
+    },
+    {
+      "eventId": "18273",
+      "date": "13 October 2019",
+      "name": "MH10",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 43
+    },
+    {
+      "eventId": "18274",
+      "date": "20 October 2019",
+      "name": "MH21",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 52
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119.2,
+      "predictedFinalPoints": 596,
+      "grandTotal": 596,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 49,
+      "id": "1711",
+      "pointsDirection": 7,
+      "name": "Tom Guy",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 106,
+      "grandTotal": 106,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 50,
+      "id": "32241",
+      "pointsDirection": 0,
+      "name": "Christopher Wilcock",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 106,
+      "grandTotal": 106,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 51,
+      "id": "27458",
+      "pointsDirection": 0,
+      "name": "Ryan Parkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 105,
+      "predictedFinalPoints": 105,
+      "grandTotal": 105,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 52,
+      "id": "11437",
+      "pointsDirection": 9,
+      "name": "James Corfield",
+      "club": "GS Metro",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 104,
+      "grandTotal": 104,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 53,
+      "id": "31233",
+      "pointsDirection": 9,
+      "name": "Stephen Mcallister",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 104,
+      "grandTotal": 104,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 54,
+      "id": "7755",
+      "pointsDirection": 9,
+      "name": "Paul Pickett",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 103,
+      "grandTotal": 103,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 55,
+      "id": "20505",
+      "pointsDirection": 9,
+      "name": "Kenny Mclellan",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 103,
+      "grandTotal": 103,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}
